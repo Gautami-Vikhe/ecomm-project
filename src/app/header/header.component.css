@@ -2,3 +2,8 @@
     display: flex;
     justify-content: space-between;
 }
+.nav h1{
+    color:blueviolet;
+    margin:0;
+    font-size:40px;
+}
