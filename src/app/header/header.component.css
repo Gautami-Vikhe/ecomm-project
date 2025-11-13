@@ -33,6 +33,12 @@
     flex: 1;
     color: blueviolet;
     border: 1px solid blueviolet;
-    height: 36px;
+    height: 35px;
     border-right: 0px;
+}
+.nav .nav-search button{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 38px;
+    border-left:0px;
 }
