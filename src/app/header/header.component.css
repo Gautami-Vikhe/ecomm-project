@@ -22,10 +22,17 @@
     color:blueviolet;
 
 }
+.nav .nav-search{
+    margin-top: 5px;
+    flex: 1;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
 .nav .nav-search input{
     flex: 1;
     color: blueviolet;
     border: 1px solid blueviolet;
-    height: 35px;
+    height: 36px;
     border-right: 0px;
 }
